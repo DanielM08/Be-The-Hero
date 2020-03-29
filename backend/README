@@ -1,0 +1,22 @@
+#Validação backend -> biblioteca Celebrate -> Integra o joi com o express: npm install celebrate
+
+#Testes -> Jest: npm install jest
+#Executá-lo: npx jest --init
+
+#Instalar pacote para ambiente de teste: npm install cross-env
+
+#Instalar supertest, biblioteca para testes em api: npm install supertest -D
+
+#Deploy:
+  Node :
+    #Heroku: Recomendado para hospedar aplicações mais simples
+    #Digital Ocean: Hospedagem maior, pagar pela hospedagem para app com clientes
+
+  React:
+    #Netlify: Específico para front end, muito simples
+
+#Recomendações de estudo
+  #Padrões de código
+    ESLint, Prettier
+  #Autenticação JWT
+  #Styled Components
